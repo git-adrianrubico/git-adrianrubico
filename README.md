@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 style="text-align:center"><b>Hi there, I'm Adrian!👋</b></h1>
+<h3 style="text-align:center">Aspiring expert in DevOps Engineer and Full stack Developer.</h3>
 
-<!--
-**git-adrianrubico/git-adrianrubico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Blog App** to my Portfolio
+- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **Python, Django, Bash Scripting, Linux Administration**
+- 📫 How to reach me **rubico.adrian@gmail.com**
 
-Here are some ideas to get you started:
+<h3>👨‍💻 Technologies and Tools:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category  | Second Header |
+| ------------- | ------------- |
+| Cloud  | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  |
+| Hosting/SaaS  | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) |
+| Languages |
+
+<h3>🔗 Connect with me</h3>
