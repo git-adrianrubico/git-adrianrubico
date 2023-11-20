@@ -1,5 +1,6 @@
-<h1 style="text-align:center"><b>Hi there, I'm Adrian!👋</b></h1>
-<h3 style="text-align:center">Aspiring expert in DevOps Engineer and Full stack Developer.</h3>
+<h1 align="center"><b>Hi there, I'm Adrian!👋</b></h1>
+<h3 align="center">Aspiring expert in DevOps Engineer and Full stack Developer.</h3>
+
 
 - 🔭 I’m currently working on **Blog App** to my Portfolio
 - 🌱 I’m currently learning **DevOps**
