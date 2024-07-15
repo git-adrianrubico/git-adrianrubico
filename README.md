@@ -2,21 +2,21 @@
 <h3 align="center">DevOps Engineer and Full stack Developer</h3>
 
 
-- 🔭 I’m currently working on **Blog App** to my Portfolio
+- 🔭 I’m currently working on **Blog** 
 - 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Python, Django, Bash Scripting, Linux Administration**
+- 💬 Ask me about **Python, Django, Bash Scripting, Linux Administration, Azure Policy**
 - 📫 How to reach me **rubico.adrian@gmail.com**
 
 <h3>🔗 Connect with me</h3>
 
-[![Website](https://img.shields.io/website?label=adrianrubico.com&style=for-the-badge&url=https%3A%2F%2Fadrianrubico.com)][website] [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Website](https://img.shields.io/website?label=adrianrubico.com&style=for-the-badge&url=https%3A%2F%2Fadrianrubico.com)][website] [![Website](https://img.shields.io/website?label=blog.adrianrubico.com&style=for-the-badge&url=https%3A%2F%2Fblog.adrianrubico.com)][website] [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 <h3>👨‍💻 Technologies and Tools:</h3>
 
 | Category  | Tools |
 | ------------- | ------------- |
 | Cloud  | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  |
-| Hosting/SaaS  | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
+| Hosting/SaaS  | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 | Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 | Frameworks | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
 | Version Control | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
