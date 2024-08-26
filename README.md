@@ -1,11 +1,12 @@
 <h1 align="center"><b>Hi there, I'm Adrian!👋</b></h1>
 <h3 align="center">DevOps Engineer and Full stack Developer</h3>
 
-
 - 🔭 I’m currently working on **Blog** 
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **Python, Django, Bash Scripting, Linux Administration, Azure Policy**
 - 📫 How to reach me **rubico.adrian@gmail.com**
+
+[![roadmap.sh](https://roadmap.sh/card/tall/64e4c13db128dce3cb638f15?variant=dark&roadmaps=devops%2Clinux%2Cpython%2Cdocker)](https://roadmap.sh)
 
 <h3>🔗 Connect with me</h3>
 
