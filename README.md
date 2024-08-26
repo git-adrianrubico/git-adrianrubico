@@ -6,7 +6,7 @@
 - 💬 Ask me about **Python, Django, Bash Scripting, Linux Administration, Azure Policy**
 - 📫 How to reach me **rubico.adrian@gmail.com**
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64e4c13db128dce3cb638f15?variant=dark&roadmaps=devops%2Clinux%2Cpython%2Cdocker)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/64e4c13db128dce3cb638f15?variant=dark)](https://roadmap.sh)
 
 <h3>🔗 Connect with me</h3>
 
