@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer and Full stack Developer</h3>
 
 - 🔭 I’m currently working on **Blog** 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps**, **Terraform**
 - 💬 Ask me about **Python, Django, Bash Scripting, Linux Administration, Azure Policy**
 - 📫 How to reach me **rubico.adrian@gmail.com**
 
